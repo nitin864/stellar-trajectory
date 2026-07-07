@@ -41,8 +41,8 @@ Stellar Testnet infrastructure.
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/<your-repo>.git
-cd <your-repo>
+git clone https://github.com/nitin864/stellar-trajectory.git
+cd stellar-trajectory
 
 # 2. Install dependencies
 npm install
@@ -93,26 +93,7 @@ src/
 - Failed transaction submission (e.g. insufficient balance) → Horizon's operation result codes
   are surfaced in the log entry
 
-## Screenshots
-
-> Replace the placeholders below with real screenshots after running the app with Freighter
-> installed and set to Testnet.
-
-**Wallet connected**
-
-`docs/screenshot-wallet-connected.png`
-
-**Balance displayed**
-
-`docs/screenshot-balance.png`
-
-**Successful testnet transaction**
-
-`docs/screenshot-tx-success.png`
-
-**Transaction result shown to the user**
-
-`docs/screenshot-tx-result.png`
+ 
 
 ## Notes
 
