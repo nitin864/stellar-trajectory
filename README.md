@@ -102,3 +102,5 @@ src/
 - Freighter has no programmatic "disconnect" call — disconnecting in this app clears the
   locally held address so the UI returns to its signed-out state; the site's permission can
   also be revoked from within the Freighter extension itself.
+
+Made with ❤️ for the Stellar Community
